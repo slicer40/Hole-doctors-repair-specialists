@@ -1,0 +1,41 @@
+index
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hole Doctor’s Repair Specialists</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #2a3a4a; color: #fff; padding: 2rem; text-align: center; }
+    main { padding: 2rem; }
+    footer { background: #222; color: #fff; text-align: center; padding: 1rem; }
+    .contact { background: #f9f9f9; padding: 1rem; border-radius: 8px; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hole Doctor’s Repair Specialists</h1>
+    <p>Your trusted partner for hole repairs, drywall, plaster, and more!</p>
+  </header>
+  <main>
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li>Drywall Repair</li>
+        <li>Plaster Repair</li>
+        <li>Wall Patching</li>
+        <li>Painting & Finishing</li>
+      </ul>
+    </section>
+    <section class="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:info@hole-doctors.com">info@hole-doctors.com</a></p>
+      <p>Phone: (555) 123-4567</p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Hole Doctor’s Repair Specialists
+  </footer>
+</body>
+</html>
